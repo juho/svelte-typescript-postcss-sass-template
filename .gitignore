@@ -1,0 +1,16 @@
+.DS_Store
+*/.DS_Store
+*/**/.DS_Store
+node_modules/
+dist/
+.DS_Store
+/.history/
+/coverage/
+/node_modules/
+yarn-error.log
+.env
+*.env
+**/.env
+**/*.env
+**/node_modules
+lerna-debug.log
